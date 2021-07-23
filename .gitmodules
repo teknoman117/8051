@@ -1,0 +1,3 @@
+[submodule "kicad/P80C550-EVN"]
+	path = kicad/P80C550-EVN
+	url = https://github.com/teknoman117/P80C550-EVN.git

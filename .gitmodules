@@ -7,3 +7,6 @@
 [submodule "kicad/P80C550-EVN-Expansion"]
 	path = kicad/P80C550-EVN-Expansion
 	url = ../P80C550-EVN-Expansion.git
+[submodule "hdl/P80C550-MEM-CPLD"]
+	path = hdl/P80C550-MEM-CPLD
+	url = ../P80C550-MEM-CPLD

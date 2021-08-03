@@ -1,12 +1,12 @@
 [submodule "kicad/P80C550-EVN"]
 	path = kicad/P80C550-EVN
 	url = ../P80C550-EVN.git
-[submodule "hdl/P80C550-SPM-CPLD-Atmel"]
-	path = hdl/P80C550-SPM-CPLD-Atmel
-	url = ../P80C550-SPM-CPLD-Atmel.git
 [submodule "kicad/P80C550-EVN-Expansion"]
 	path = kicad/P80C550-EVN-Expansion
 	url = ../P80C550-EVN-Expansion.git
 [submodule "hdl/P80C550-MEM-CPLD"]
 	path = hdl/P80C550-MEM-CPLD
 	url = ../P80C550-MEM-CPLD
+[submodule "hdl/P80C550-SPM-CPLD"]
+	path = hdl/P80C550-SPM-CPLD
+	url = ../P80C550-SPM-CPLD

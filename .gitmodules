@@ -10,3 +10,6 @@
 [submodule "hdl/P80C550-SPM-CPLD"]
 	path = hdl/P80C550-SPM-CPLD
 	url = ../P80C550-SPM-CPLD
+[submodule "bootloaders/spm-bootloader-minimal"]
+	path = bootloaders/spm-bootloader-minimal
+	url = ../P80C550-SPM-Bootloader-Minimal

@@ -13,3 +13,6 @@
 [submodule "bootloaders/spm-bootloader-minimal"]
 	path = bootloaders/spm-bootloader-minimal
 	url = ../P80C550-SPM-Bootloader-Minimal
+[submodule "emulator"]
+	path = emulator
+	url = ../p80c550_evn_emulator.git

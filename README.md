@@ -20,6 +20,14 @@ HDL projects for (C)PLDs on expansion boards
 
 EDA files for PCBs
 
+### src
+
+Various projects for the P80C550-EVN board
+
+## License
+
+All software and gateware is licensed under the Mozilla Public License 2.0 except where otherwise noted (such as Petite FatFs). All PCB designs are licensed under CC-BY-SA 4.0.
+
 ## Usage
 
 ```
